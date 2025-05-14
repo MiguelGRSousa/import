@@ -1,0 +1,58 @@
+{
+  "version": "5.0.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "leading edge;erosion;spotty or laminate",
+      "points": [
+        [
+          3789.8148148148143,
+          2605.7407407407404
+        ],
+        [
+          3863.8888888888887,
+          2635.37037037037
+        ],
+        [
+          3878.7037037037035,
+          2572.4074074074074
+        ],
+        [
+          3793.5185185185182,
+          2546.4814814814813
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "polygon",
+      "flags": {}
+    },
+    {
+      "label": "leading edge;erosion;coating or LEP only",
+      "points": [
+        [
+          45.37037037037038,
+          50.185185185185176
+        ],
+        [
+          249.07407407407402,
+          209.44444444444443
+        ],
+        [
+          289.8148148148148,
+          157.59259259259258
+        ],
+        [
+          75.0,
+          9.444444444444443
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "polygon",
+      "flags": {}
+    }
+  ],
+  "imagePath": "3_bbe068b7-ebe9-4320-9869-9dd2e40cd911.jpg",
+  "imageData": null,
+  "imageHeight": 3632,
+  "imageWidth": 5456
+}

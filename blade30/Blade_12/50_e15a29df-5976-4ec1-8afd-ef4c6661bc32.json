@@ -1,0 +1,34 @@
+{
+  "version": "5.0.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "add-on;dynotail;OK",
+      "points": [
+        [
+          3697.222222222222,
+          20.55555555555555
+        ],
+        [
+          3523.148148148148,
+          2139.074074074074
+        ],
+        [
+          3600.9259259259256,
+          2153.8888888888887
+        ],
+        [
+          3756.4814814814813,
+          16.851851851851848
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "polygon",
+      "flags": {}
+    }
+  ],
+  "imagePath": "50_e15a29df-5976-4ec1-8afd-ef4c6661bc32.jpg",
+  "imageData": null,
+  "imageHeight": 3632,
+  "imageWidth": 5456
+}

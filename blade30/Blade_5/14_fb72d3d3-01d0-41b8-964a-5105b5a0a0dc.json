@@ -1,0 +1,34 @@
+{
+  "version": "5.0.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "add-on;markings;lifting point",
+      "points": [
+        [
+          2991.5254237288136,
+          3181.35593220339
+        ],
+        [
+          2981.35593220339,
+          3201.6949152542375
+        ],
+        [
+          3206.7796610169494,
+          3320.3389830508477
+        ],
+        [
+          3211.8644067796613,
+          3293.220338983051
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "polygon",
+      "flags": {}
+    }
+  ],
+  "imagePath": "14_fb72d3d3-01d0-41b8-964a-5105b5a0a0dc.jpg",
+  "imageData": null,
+  "imageHeight": 3632,
+  "imageWidth": 5456
+}
