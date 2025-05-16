@@ -1,0 +1,106 @@
+{
+  "version": "5.0.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "Surface;contamination;dirt",
+      "points": [
+        [
+          1026.0,
+          3452.0
+        ],
+        [
+          1241.0,
+          3572.0
+        ],
+        [
+          1331.0,
+          3542.0
+        ],
+        [
+          1321.0,
+          3502.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "polygon",
+      "flags": {}
+    },
+    {
+      "label": "Surface;contamination;dirt",
+      "points": [
+        [
+          1396.0,
+          3337.0
+        ],
+        [
+          1686.0,
+          3497.0
+        ],
+        [
+          1731.0,
+          3422.0
+        ],
+        [
+          1611.0,
+          3372.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "polygon",
+      "flags": {}
+    },
+    {
+      "label": "Surface;contamination;dirt",
+      "points": [
+        [
+          1736.0,
+          3242.0
+        ],
+        [
+          1936.0,
+          3382.0
+        ],
+        [
+          1996.0,
+          3337.0
+        ],
+        [
+          1911.0,
+          3282.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "polygon",
+      "flags": {}
+    },
+    {
+      "label": "Surface;contamination;dirt",
+      "points": [
+        [
+          1511.0,
+          3557.0
+        ],
+        [
+          1801.0,
+          3622.0
+        ],
+        [
+          1690,
+          3631
+        ],
+        [
+          1586.0,
+          3617.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "polygon",
+      "flags": {}
+    }
+  ],
+  "imagePath": "54_36278d80-a7cc-436a-9f41-d5d1ebaf0f3e.jpg",
+  "imageData": null,
+  "imageHeight": 3632,
+  "imageWidth": 5456
+}

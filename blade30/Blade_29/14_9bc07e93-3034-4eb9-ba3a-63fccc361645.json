@@ -1,0 +1,50 @@
+{
+  "version": "5.0.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "Surface;contamination;dirt",
+      "points": [
+        [
+          2976.25,
+          1873.75
+        ],
+        [
+          3002.5,
+          1840.0
+        ],
+        [
+          3030.0,
+          1842.5
+        ],
+        [
+          3062.5,
+          1876.25
+        ],
+        [
+          3056.25,
+          1912.5
+        ],
+        [
+          3025.0,
+          1942.5
+        ],
+        [
+          2995.0,
+          1928.75
+        ],
+        [
+          2981.25,
+          1901.25
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "polygon",
+      "flags": {}
+    }
+  ],
+  "imagePath": "14_9bc07e93-3034-4eb9-ba3a-63fccc361645.jpg",
+  "imageData": null,
+  "imageHeight": 3632,
+  "imageWidth": 5456
+}

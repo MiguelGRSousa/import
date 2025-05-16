@@ -1,0 +1,54 @@
+{
+  "version": "5.0.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "leading edge;erosion;coating or LEP only",
+      "points": [
+        [
+          2051.0,
+          577.0
+        ],
+        [
+          2111.0,
+          562.0
+        ],
+        [
+          3266.0,
+          2332.0
+        ],
+        [
+          3781.0,
+          3117.0
+        ],
+        [
+          4121.0,
+          3617.0
+        ],
+        [
+          3996.0,
+          3617.0
+        ],
+        [
+          2991.0,
+          2032.0
+        ],
+        [
+          2511.0,
+          1297.0
+        ],
+        [
+          2131.0,
+          722.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "polygon",
+      "flags": {}
+    }
+  ],
+  "imagePath": "2_4c5e4a3e-2024-4767-b917-00ddd5c1c590.jpg",
+  "imageData": null,
+  "imageHeight": 3632,
+  "imageWidth": 5456
+}

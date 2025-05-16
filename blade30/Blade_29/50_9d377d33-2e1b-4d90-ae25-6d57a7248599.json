@@ -1,0 +1,194 @@
+{
+  "version": "5.0.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "Surface;contamination;dirt",
+      "points": [
+        [
+          76.0,
+          3547.0
+        ],
+        [
+          111.0,
+          3477.0
+        ],
+        [
+          526.0,
+          3592.0
+        ],
+        [
+          474,
+          3631
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "polygon",
+      "flags": {}
+    },
+    {
+      "label": "Surface;contamination;dirt",
+      "points": [
+        [
+          686.0,
+          2082.0
+        ],
+        [
+          906.0,
+          2092.0
+        ],
+        [
+          1016.0,
+          2017.0
+        ],
+        [
+          861.0,
+          2007.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "polygon",
+      "flags": {}
+    },
+    {
+      "label": "Surface;contamination;dirt",
+      "points": [
+        [
+          1111.0,
+          1312.0
+        ],
+        [
+          1571.0,
+          1402.0
+        ],
+        [
+          1816.0,
+          1407.0
+        ],
+        [
+          1896.0,
+          1352.0
+        ],
+        [
+          1831.0,
+          1322.0
+        ],
+        [
+          1491.0,
+          1247.0
+        ],
+        [
+          1371.0,
+          1282.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "polygon",
+      "flags": {}
+    },
+    {
+      "label": "Surface;contamination;dirt",
+      "points": [
+        [
+          1751.0,
+          627.0
+        ],
+        [
+          2051.0,
+          722.0
+        ],
+        [
+          2111.0,
+          657.0
+        ],
+        [
+          1936.0,
+          627.0
+        ],
+        [
+          1826.0,
+          597.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "polygon",
+      "flags": {}
+    },
+    {
+      "label": "Surface;contamination;dirt",
+      "points": [
+        [
+          2281.0,
+          697.0
+        ],
+        [
+          2536.0,
+          792.0
+        ],
+        [
+          2561.0,
+          722.0
+        ],
+        [
+          2396.0,
+          672.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "polygon",
+      "flags": {}
+    },
+    {
+      "label": "Surface;contamination;dirt",
+      "points": [
+        [
+          2141.0,
+          497.0
+        ],
+        [
+          2446.0,
+          612.0
+        ],
+        [
+          2496.0,
+          542.0
+        ],
+        [
+          2396.0,
+          512.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "polygon",
+      "flags": {}
+    },
+    {
+      "label": "Surface;contamination;dirt",
+      "points": [
+        [
+          2506.0,
+          392.0
+        ],
+        [
+          2706.0,
+          512.0
+        ],
+        [
+          2761.0,
+          447.0
+        ],
+        [
+          2611.0,
+          402.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "polygon",
+      "flags": {}
+    }
+  ],
+  "imagePath": "50_9d377d33-2e1b-4d90-ae25-6d57a7248599.jpg",
+  "imageData": null,
+  "imageHeight": 3632,
+  "imageWidth": 5456
+}
