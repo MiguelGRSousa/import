@@ -1,0 +1,2 @@
+Training - Total Loss: 1.0910, BBox Loss: 0.0037, Class Loss: 1.0872, Accuracy: 0.7452
+  Testing - Total Loss: 1.3643, BBox Loss: 0.0304, Class Loss: 1.3339, Accuracy: 0.8679
